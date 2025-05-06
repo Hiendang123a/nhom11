@@ -1,7 +1,7 @@
 # Geting Started
 
-FurniShop is a Java web application that requires several configurations before it can run properly. This guide will walk you through the necessary setup steps to get started...
-
+FurniShop is a Java web application that requires several configurations before it can run properly. This guide will walk you through the necessary setup steps to get started....
+.
 ## Install JDK
 
 FurniShop is built on Java, so you need to have [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/downloads/) installed globally on your machine.
